@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ship:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ship_jar</output-path>
+    <root id="archive" name="Ship.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/Ship/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Lab6" />
+    </root>
+  </artifact>
+</component>
